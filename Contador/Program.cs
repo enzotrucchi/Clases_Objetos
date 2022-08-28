@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Contador contador = new(10);
+            contador.Incrementar();
+            contador.Incrementar();
+            contador.ImprimirValorActual();
+            contador.Decrementar();
+            contador.ImprimirValorActual();
         }
     }
 }
