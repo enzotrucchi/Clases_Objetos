@@ -60,6 +60,7 @@ Luego, crear una clase Auto con un constructor que reciba un parámetro con la c
 El método Conducir() de Auto, mostrará en consola un mensaje y restará una unidad de combustible mientras que todavía sea positivo el valor (el auto tiene combustible). Cuando no tenga más, se avisa por consola.
 
 <code>En este ejercicio trabajarás con Interfaces</code>
+
 ---------------------
 
 
