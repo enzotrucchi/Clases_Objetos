@@ -59,4 +59,20 @@ Luego, crear una clase Auto con un constructor que reciba un parámetro con la c
 
 El método Conducir() de Auto, mostrará en consola un mensaje y restará una unidad de combustible mientras que todavía sea positivo el valor (el auto tiene combustible). Cuando no tenga más, se avisa por consola.
 
+<code>En este ejercicio trabajarás con Interfaces</code>
 ---------------------
+
+
+**5.**
+Crear un programa que implemente una clase abstracta Animal con una propiedad nombre y tres métodos:
+
+- SetNombre
+- GetNombre
+- Comer. void. abstracto.
+
+Además, deberás crear una clase Perro que implemente la clase Animal y el método Comer que indique que el perro está comiendo. 
+
+Testeo:
+Ingresar por consola el nombre, setearlo en el objeto y ejecutar los métodos GetNombre y Comer.
+
+<code>En este ejercicio trabajarás con clase abstracta y sobre escritura de métodos</code>
